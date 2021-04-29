@@ -1,11 +1,11 @@
-Clavo
-Madera
-Pegamento
-Boceto
-Coordenadas
-Plano
-Cortadora 
-Herramienta
-Prosupuesto
-Tiempo
-Pintura
+Clavo : ok
+Madera : ok
+Pegamento : ok 
+Boceto : ok
+Coordenadasxyz: ok
+Plano; :ok
+Cortadora; ok 
+Herramienta : para buscar
+Prosupuesto : 500 soles
+Tiempo en 4 dias
+Pintura de color negro
